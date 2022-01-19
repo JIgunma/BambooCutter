@@ -9,5 +9,9 @@
     "@type" : null,
     "@id" : "https://JIgunma.github.io/BambooCutter/manifests/manifest1.json",
     "label" : null
+  }, {
+    "@type" : null,
+    "@id" : "https://JIgunma.github.io/BambooCutter/manifests/manifest1",
+    "label" : null
   } ]
 }

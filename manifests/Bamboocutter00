@@ -1,0 +1,16 @@
+{
+  "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+    "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "rotationBy90s", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ],
+    "qualities" : [ "default", "native", "color", "gray", "bitonal" ],
+    "formats" : [ "jpg", "txt", "jp2", "tif", "pdf", "gif", "png", "webp" ]
+  } ],
+  "tiles" : [ {
+    "width" : 512,
+    "scaleFactors" : [ 1, 2, 4, 8, 16, 32, 64 ]
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "height" : 1517,
+  "width" : 2618,
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "@id" : "https://JIgunma.github.io/BambooCutter/manifests/Bamboocutter00"
+}

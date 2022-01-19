@@ -1,0 +1,13 @@
+{
+  "id" : "https://JIgunma.github.io/BambooCutter/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in JIgunma/BambooCutter project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : null,
+    "@id" : "https://JIgunma.github.io/BambooCutter/manifests/manifest1.json",
+    "label" : null
+  } ]
+}

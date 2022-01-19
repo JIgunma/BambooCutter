@@ -7,6 +7,63 @@
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
     "width" : 2618,
+    "id" : "https://JIgunma.github.io/BambooCutter/images/Bamboocutter00/canvas/",
+    "label" : {
+      "none" : [ "Bamboocutter00" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://JIgunma.github.io/BambooCutter/images/Bamboocutter00/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://JIgunma.github.io/BambooCutter/images/Bamboocutter00/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 82,
+              "height" : 48
+            }, {
+              "width" : 164,
+              "height" : 95
+            }, {
+              "width" : 328,
+              "height" : 190
+            }, {
+              "width" : 655,
+              "height" : 380
+            }, {
+              "width" : 1309,
+              "height" : 759
+            }, {
+              "width" : 2618,
+              "height" : 1517
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 2618,
+            "@id" : "https://JIgunma.github.io/BambooCutter/images/Bamboocutter00",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1517
+          } ],
+          "format" : "image/jpeg",
+          "width" : 2618,
+          "id" : "https://JIgunma.github.io/BambooCutter/images/Bamboocutter00/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1517
+        },
+        "target" : "https://JIgunma.github.io/BambooCutter/images/Bamboocutter00/canvas/"
+      } ]
+    } ],
+    "height" : 1517
+  }, {
+    "width" : 2618,
     "id" : "https://JIgunma.github.io/BambooCutter/images/Bamboocutter01/canvas/",
     "label" : {
       "none" : [ "Bamboocutter01" ]

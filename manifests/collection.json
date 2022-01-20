@@ -29,5 +29,9 @@
       "en" : [ "All images loaded in JIgunma/BambooCutter project" ]
     },
     "type" : "Manifest"
+  }, {
+    "@type" : null,
+    "@id" : "https://JIgunma.github.io/BambooCutter/manifests/manifest2.json",
+    "label" : null
   } ]
 }

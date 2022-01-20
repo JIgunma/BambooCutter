@@ -26,7 +26,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 3559,
-  "@id" : "https://JIgunma.github.io/BambooCutter/manifests/manifest2.json",
+  @id: "https://JIgunma.github.io/BambooCutter/images/Meru",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 7527
 }

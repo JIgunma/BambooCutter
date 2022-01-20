@@ -33,5 +33,11 @@
     "@type" : null,
     "@id" : "https://JIgunma.github.io/BambooCutter/manifests/manifest3",
     "label" : null
+  }, {
+    "id" : "https://JIgunma.github.io/BambooCutter/manifests/manifest3.json",
+    "label" : {
+      "en" : [ "All images loaded in JIgunma/BambooCutter project" ]
+    },
+    "type" : "Manifest"
   } ]
 }

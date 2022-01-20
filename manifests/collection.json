@@ -33,5 +33,9 @@
     "@type" : null,
     "@id" : "https://JIgunma.github.io/BambooCutter/manifests/Meru",
     "label" : null
+  }, {
+    "@type" : null,
+    "@id" : "https://JIgunma.github.io/BambooCutter/manifests/manifest3",
+    "label" : null
   } ]
 }

@@ -31,10 +31,6 @@
     "type" : "Manifest"
   }, {
     "@type" : null,
-    "@id" : "https://JIgunma.github.io/BambooCutter/manifests/manifest2.json",
-    "label" : null
-  }, {
-    "@type" : null,
     "@id" : "https://JIgunma.github.io/BambooCutter/manifests/Meru",
     "label" : null
   } ]

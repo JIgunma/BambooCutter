@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 160,
+    "height" : 136
+  }, {
+    "width" : 319,
+    "height" : 271
+  }, {
+    "width" : 638,
+    "height" : 542
+  }, {
+    "width" : 1275,
+    "height" : 1084
+  }, {
+    "width" : 2550,
+    "height" : 2168
+  }, {
+    "width" : 5100,
+    "height" : 4336
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 5100,
+  "@id" : "https://JIgunma.github.io/BambooCutter/images/Funeral",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 4336
+}

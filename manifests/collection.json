@@ -51,5 +51,11 @@
       "en" : [ "All images loaded in JIgunma/BambooCutter project" ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://JIgunma.github.io/BambooCutter/manifests/manifest4",
+    "label" : {
+      "en" : [ "All images loaded in JIgunma/BambooCutter project" ]
+    },
+    "type" : "Manifest"
   } ]
 }

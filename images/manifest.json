@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 3508,
+    "id" : "https://JIgunma.github.io/BambooCutter/images/Untitled_14062022_111759/canvas/",
+    "label" : {
+      "none" : [ "Untitled_14062022_111759" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://JIgunma.github.io/BambooCutter/images/Untitled_14062022_111759/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://JIgunma.github.io/BambooCutter/images/Untitled_14062022_111759/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 110,
+              "height" : 78
+            }, {
+              "width" : 220,
+              "height" : 155
+            }, {
+              "width" : 439,
+              "height" : 310
+            }, {
+              "width" : 877,
+              "height" : 620
+            }, {
+              "width" : 1754,
+              "height" : 1240
+            }, {
+              "width" : 3508,
+              "height" : 2480
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 3508,
+            "@id" : "https://JIgunma.github.io/BambooCutter/images/Untitled_14062022_111759",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 2480
+          } ],
+          "format" : "image/jpeg",
+          "width" : 3508,
+          "id" : "https://JIgunma.github.io/BambooCutter/images/Untitled_14062022_111759/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 2480
+        },
+        "target" : "https://JIgunma.github.io/BambooCutter/images/Untitled_14062022_111759/canvas/"
+      } ]
+    } ],
+    "height" : 2480
+  }, {
     "width" : 5100,
     "id" : "https://JIgunma.github.io/BambooCutter/images/Funeral/canvas/",
     "label" : {
